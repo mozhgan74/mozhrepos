@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     if: ${{ hashFiles('**/package.json') != '' }}
     steps:
-      - name: Checkout
+      - name: Checkin
         uses: actions/checkout@v4
 
       - name: Use Node.js
