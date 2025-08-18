@@ -10,7 +10,7 @@ on:
       - "v*.*.*"
 
 permissions:
-  contents: rea
+  contents: read
 
 jobs:
   node-tests:
