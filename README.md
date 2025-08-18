@@ -10,7 +10,7 @@ on:
       - "v*.*.*"
 
 permissions:
-  contents: read
+  contents: rea
 
 jobs:
   node-tests:
@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     if: ${{ hashFiles('**/package.json') != '' }}
     steps:
-      - name: Checkin
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Use Node.js
