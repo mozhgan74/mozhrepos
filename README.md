@@ -2,7 +2,7 @@
 test github
 names: CI / Test / Release
 
-on:
+on there:
   pull_request:
   push:
     branches: [ main, master ]
