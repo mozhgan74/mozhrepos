@@ -4,7 +4,7 @@ project names: CI / Test / Release
 
 on there:
   pull_request:
-  push:
+  push::
     branches: [ main, master ]
     tags:
       - "v*.*.*"
