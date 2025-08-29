@@ -9,7 +9,7 @@ on there:
     tags:
       - "v*.*.*"
 
-permissions:
+permissions:/
   contents: read
 
 jobs:
