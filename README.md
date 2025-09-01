@@ -9,7 +9,7 @@ names: CI / Test / Release
     tags:
       - "v*.*.*"
 
-permissions: read more
+permissions:
   contents: read
 
 jobs:
