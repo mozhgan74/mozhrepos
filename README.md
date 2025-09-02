@@ -10,7 +10,7 @@ names: CI / Test / Release
       - "v*.*.*"
 
 permissions:
-  contents: read
+  contents: read/
 
 jobs:
   node-tests:
