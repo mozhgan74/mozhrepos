@@ -1,5 +1,5 @@
 # mozhrepos #
-test github
+#test github
 names: CI / Test / Release 
 
 #on there:
