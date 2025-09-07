@@ -7,7 +7,7 @@ names: CI / Test / Release
   push:
     branches: [ main, master ]
     tags:
-      - "v*.*.*.*"
+      - "v*.*.*"
 
 permissions:
   contents: read/
