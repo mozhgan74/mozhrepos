@@ -1,4 +1,4 @@
- mozhrepos
+// mozhrepos
 test github
 names: CI / Test / Release 
 
