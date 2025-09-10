@@ -1,6 +1,6 @@
 // mozhrepos
 test github
-names: CI / Test / Release 
+name: CI / Test / Release 
 
 #on there:
   pull_request:
