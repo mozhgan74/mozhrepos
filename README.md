@@ -1,4 +1,4 @@
-// mozhrepostest github
+ mozhrepostest github
 name: CI / Test / Release 
 
 on there:
