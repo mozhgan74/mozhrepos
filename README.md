@@ -1,7 +1,7 @@
  mozhrepostest github
 name: CI / Test / Release 
 
-on there :
+on there is:
   pull_request:
   push:
     branches: [ main, master ]
