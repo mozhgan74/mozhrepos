@@ -53,7 +53,7 @@ on there is:
             build
           if-no-files-found: ignore
 
-  python-tests:
+  #python-tests:
     name: Python Lint & Test
     runs-on: ubuntu-latest
     if: ${{ hashFiles('**/requirements.txt') != '' || hashFiles('**/pyproject.toml') != '' }}
