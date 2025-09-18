@@ -1,6 +1,6 @@
  mozhrepostest github
 name: CI / Test / Release 
-
+ 
 on there is:
   pull_request:
   push:
@@ -9,7 +9,7 @@ on there is:
       - "v*.*.*"
 
 #permissions:
-  contents: read/
+  contents: read
 
 # jobs:
   node-tests:
