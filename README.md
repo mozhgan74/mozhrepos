@@ -11,7 +11,7 @@ on there is:
 #permissions:
   contents: read
 
- jobs:()
+ jobs:(project)
   node-tests:
     name: Node.js Lint & Test
     runs-on: ubuntu-latest
