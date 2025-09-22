@@ -8,7 +8,7 @@ on there is:
     tags:
       - "v*.*.*"
 
-#permissions:
+permissions:
   contents: read
 
  jobs:(project)
