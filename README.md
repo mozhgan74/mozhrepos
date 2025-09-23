@@ -6,7 +6,7 @@ on there is:
   push:
     branches: [ main, master ]
     tags:
-      - "v*.*.*"
+       "v*.*.*"
 
 permissions:
   contents: read
