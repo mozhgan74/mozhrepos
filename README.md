@@ -5,7 +5,7 @@ on there is:
   pull_request:
   push:
     branches: [ main, master ]
-    tags:
+    #tags:
        "v*.*.*"
 
 permissions:
