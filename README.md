@@ -4,8 +4,8 @@ name: CI / Test / Release
 on there is:
   pull_request:
   push:
-    #branches: [ main, master ]
-    #tags:
+    branches: [ main, master ]
+    tags:
        "v*.*.*"
 
 permissions:
