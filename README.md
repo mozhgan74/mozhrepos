@@ -17,8 +17,8 @@ permissions:
     runs-on: ubuntu-latest
     if: ${{ hashFiles('**/package.json') != '' }}
     steps:
-      - name: Checkout
-      - uses: actions/checkout@v4
+   1   - name: Checkout
+    2  - uses: actions/checkout@v4
 
       - name: Use Node.js
         uses: actions/setup-node@v4
