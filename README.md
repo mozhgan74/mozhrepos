@@ -10,6 +10,7 @@ on there is:
 
 permissions:
   contents: read
+  contents: write
 
  jobs:(project)
   node-tests:
