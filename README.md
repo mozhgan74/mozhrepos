@@ -11,7 +11,7 @@ on there is:
 permissions:
   contents: read
   contents: write
-
+//write
  jobs:(project)
   node-tests:
     name: Node.js Lint & Test
