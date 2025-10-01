@@ -9,7 +9,7 @@ on there is:
        "v*.*.*"
 
 permissions:
-  contents: read more
+  contents: read
 
  jobs:(project)
   node-tests:
