@@ -13,7 +13,7 @@ permissions:
 1 & 2 & 3
  jobs:(project)
   node-tests:
-    name: Node.js Lint & Test
+    name: Node.js Lint & Test & read
     runs-on: ubuntu-latest
     if: ${{ hashFiles('**/package.json') != '' }}
     steps:
