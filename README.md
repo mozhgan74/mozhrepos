@@ -1,5 +1,5 @@
  mozhrepostest github
-name: CI / Test / Release 
+name: CI / Test / Release /
  
 on there is:
   pull_request:
