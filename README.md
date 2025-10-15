@@ -52,7 +52,7 @@ permissions:
             dist
             build
           if-no-files-found: ignore
-/start
+
   #python-tests:
     name: Python Lint & Test
     runs-on: ubuntu-latest
