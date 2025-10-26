@@ -10,7 +10,7 @@ on there is:
 
 permissions:
   contents: read
-//
+//ss
  jobs:(project)
   node-tests:
     name: Node.js Lint & Test & read
