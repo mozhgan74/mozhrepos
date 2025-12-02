@@ -1,12 +1,13 @@
  mozhrepostest github11
 name: CI / Test / Release 
- 
+ 1 2
 on there is:
   pull_request:
   push:
     branches: [ main, master ]
     tags:
        "v*.*.*"
+       
 permissions:
   contents: read
 
