@@ -1,6 +1,6 @@
  mozhrepostest github11
 name: CI / Test / Release 
- 1 2
+ 1 
 on there is:
   pull_request:
   push:
