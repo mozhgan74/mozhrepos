@@ -1,6 +1,6 @@
  mozhrepostest github11
 name: CI / Test / Release 
- unde
+ und
 on there is:
   pull_request:
   push:
