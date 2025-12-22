@@ -7,7 +7,7 @@ on there is:
     branches: [ main, master ]
     tags:
        "v*.*.*"
-   soren
+   soren plus
 permissions:
   contents: read
 
