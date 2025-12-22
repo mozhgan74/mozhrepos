@@ -10,7 +10,7 @@ on there is:
    soren plus
 permissions:
   contents: read
-
+spirit
  jobs:(project)
   node-tests:
     name: Node.js Lint & Test & read
