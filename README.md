@@ -7,7 +7,7 @@ on there is:
     branches: [ main, master ]
     tags:
        "v*.*.*"
-   asdf
+   as
 permissions:
   contents: read
 
