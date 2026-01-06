@@ -10,7 +10,7 @@ on there is:
    adult mn
 permissions:
   contents: read
-12
+1232
  jobs:(project)
   node-tests:
     name: Node.js Lint & Test & read
