@@ -7,6 +7,7 @@ on there is:
     branches: [ main, master ]
     tags:
        "v*.*.*"
+       11
 permissions:
   contents: read
 1232
