@@ -1,6 +1,6 @@
  mozhrepostest github11
 name: CI / Test / Release 
- 
+ stake
 on there is:
   pull_request:
   push:
