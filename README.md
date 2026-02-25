@@ -1,6 +1,6 @@
  mozhrepostest github11
 name: CI / Test / Release 
- nnb
+ nnb55
 on there is:
   pull_request:
   push:
